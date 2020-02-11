@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2abc96f3-365c-4cb9-b2fa-2e9825090905" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/KrS.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Duplicate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/display.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dupli.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/apache/http/examples/client/noname.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phpfile1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/http/examples/client/dbconnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/http/examples/client/dbconnect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/http/examples/client/parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/http/examples/client/parser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/p3.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/http/examples/client/dbconnect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/apache/http/examples/client/dbconnect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/http/examples/client/parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/apache/http/examples/client/parser.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +129,7 @@
       <updated>1580880331167</updated>
       <workItem from="1581331451174" duration="886000" />
       <workItem from="1581332433520" duration="4138000" />
-      <workItem from="1581393879349" duration="6055000" />
+      <workItem from="1581393879349" duration="6730000" />
     </task>
     <servers />
   </component>
