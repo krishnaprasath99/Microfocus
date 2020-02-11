@@ -58,8 +58,8 @@ public class parser {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        /*dbconnect d=new dbconnect();
-        d.connect(fieldName,ss1);*/
+        dbconnect d=new dbconnect();
+        d.connect(fieldName,ss1);
 
         return ss1;
     }
@@ -109,8 +109,8 @@ public class parser {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        /*dbconnect d=new dbconnect();
-        d.connect(fieldName,ss1);*/
+        dbconnect d=new dbconnect();
+        d.connect(fieldName,ss1);
 
         return ss2;
     }

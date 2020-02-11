@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2abc96f3-365c-4cb9-b2fa-2e9825090905" name="Default Changelist" comment="" />
+    <list default="true" id="2abc96f3-365c-4cb9-b2fa-2e9825090905" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/KrS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Duplicate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/display.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dupli.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/apache/http/examples/client/noname.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phpfile1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/http/examples/client/dbconnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/http/examples/client/dbconnect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/http/examples/client/parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/http/examples/client/parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/p3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/http/examples/client/dbconnect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/apache/http/examples/client/dbconnect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/http/examples/client/parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/apache/http/examples/client/parser.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="p3" />
@@ -14,21 +38,46 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/src/main/java" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1XNIsPMMa5MEhq3L8H8WjhbuPGa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/sample.php" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.webOptions" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -38,22 +87,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.testing">
+  <component name="RunManager" selected="JavaScript Debug.Duplicate.html">
     <configuration name="ClientWithResponseHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.apache.http.examples.client.ClientWithResponseHandler" />
-      <module name="p3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.apache.http.examples.client.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dbconnect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.apache.http.examples.client.dbconnect" />
       <module name="p3" />
       <extension name="coverage">
         <pattern>
@@ -82,12 +118,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Duplicate.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/p3/java/Duplicate.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="noname.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/p3/java/org/apache/http/examples/client/noname.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.testing" />
+        <item itemvalue="JavaScript Debug.Duplicate.html" />
+        <item itemvalue="JavaScript Debug.noname.html" />
         <item itemvalue="Application.ClientWithResponseHandler" />
+        <item itemvalue="JUnit.testing" />
         <item itemvalue="JUnit.All in p3" />
-        <item itemvalue="Application.dbconnect" />
       </list>
     </recent_temporary>
   </component>
@@ -101,61 +144,111 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580880331167</updated>
+      <workItem from="1581331451174" duration="886000" />
+      <workItem from="1581332433520" duration="4138000" />
+      <workItem from="1581393879349" duration="6055000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="540" y="175" key="#CLI_Interpreters" timestamp="1581395868710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1581395868710" />
     <state x="552" y="179" key="#Inspections" timestamp="1580901976235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1580901976235" />
+    <state x="667" y="111" key="#PHP" timestamp="1581395256698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="111" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1581395256698" />
     <state x="552" y="179" key="#Project_Structure" timestamp="1580983902595">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1580983902595" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1580986792489">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1581395532816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580986792489" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1580986792489">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581395532816" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1581399244203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580986792489" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1580986792489">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581399244203" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1581399244203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580986792489" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1580986792489">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581399244203" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1581399244203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580986792489" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1580902880131">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581399244203" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1581399244203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580902880131" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1580902880131">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581399244203" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581399244043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580902880131" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1580902880131">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581399244043" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1581399244043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580902880131" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1580902880131">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581399244043" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1581399244043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580902880131" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581399244043" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1581399244043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581399244043" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1581399244044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581399244044" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1581399244044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581399244044" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1581399244044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581399244044" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1581399244044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581399244044" />
     <state x="565" y="279" key="Maven.ArtifactSearchDialog" timestamp="1580881512217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="565" y="279" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580881512217" />
+    <state x="745" y="335" key="NewPhpClassDialog" timestamp="1581334608501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="745" y="335" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581334608501" />
+    <state x="794" y="444" key="NewPhpFileDialog" timestamp="1581396125952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="444" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581396125952" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1581398901315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581398901315" />
     <state x="776" y="299" key="chooseDestDirectoryDialog" timestamp="1580883160849">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="776" y="299" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580883160849" />
-    <state x="342" y="223" key="new project wizard" timestamp="1580886039743">
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1581393881262">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="223" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1580886039743" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581393881262" />
+    <state x="342" y="223" key="new project wizard" timestamp="1581048639495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="223" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1581048639495" />
   </component>
 </project>

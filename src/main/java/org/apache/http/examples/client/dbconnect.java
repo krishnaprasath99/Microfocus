@@ -11,7 +11,7 @@ public class dbconnect{
 
     private final String url = "jdbc:postgresql://localhost/testdb";
     private final String user = "postgres";
-    private final String password = "krishna";
+    private final String password = "Moniajit@2003";
 
     /**
      * Connect to the PostgreSQL database
@@ -25,16 +25,16 @@ public class dbconnect{
 
             System.out.println("Connected to the PostgreSQL server successfully.");
 
-            String str = "create table table2 ( key varchar(255), links varchar(255));";
-            PreparedStatement statement = conn.prepareStatement(str);
-            statement.executeQuery();
+            //String str = "create table table2 ( key varchar(255), links varchar(255));";
+            //PreparedStatement statement = conn.prepareStatement(str);
+            //statement.executeQuery();
             String s1="b",s2="b";
-            String str1 = "INSERT INTO table1(key, links) VALUES('"+fieldName+"','"+ss1+"');";
+            String str1 = "INSERT INTO table2(key, links) VALUES('"+fieldName+"','"+ss1+"');";
             PreparedStatement statement1 = conn.prepareStatement(str1);
             System.out.println("**************");
             statement1.executeUpdate();
 
-            String query = "SELECT * FROM table1";
+            String query = "SELECT * FROM table2";
             PreparedStatement stmt2 = conn.prepareStatement(query);
             stmt2.execute();
             ResultSet rs2 = stmt2.getResultSet();
